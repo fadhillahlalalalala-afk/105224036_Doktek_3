@@ -1,6 +1,6 @@
 # Dokumen Teknis Modul 3 — TypeScript dan Komponen React
 
-Nama/NIM : [ISI: Nama Lengkap] / [ISI: NIM]
+Nama/NIM : [Muhammad Fadhilah Chandra Mulan] / [NIM:105224036]
 Repositori : [ISI: https://github.com/username/nama-repo]
 
 > Catatan: contoh di bawah memakai entitas `Item` dengan kategori energi, lingkungan, dan kampus, sesuai modul. Jika produkmu memakai nama lain, samakan dengan kode di repositori.
